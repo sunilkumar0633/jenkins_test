@@ -7,8 +7,8 @@ set -e
 set -x
 
 # Define variables
-DIr_NAME="test_directory"
-FI_NAME="test_filex.txt"
+DIR_NAME="test_directory"
+FILE_NAME="test_filex.txt"
 FILE_CONTENT="Hello, Jenkins!"
 
 # Create a new directory
