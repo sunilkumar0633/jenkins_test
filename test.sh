@@ -7,7 +7,7 @@ set -e
 set -x
 
 # Define variables
-DI_NAME="test_directory"
+DIr_NAME="test_directory"
 FI_NAME="test_filex.txt"
 FILE_CONTENT="Hello, Jenkins!"
 
