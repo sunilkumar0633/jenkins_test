@@ -29,5 +29,6 @@ cat $FILE_NAME
 # Clean up: Remove the directory and its contents
 cd ..
 rm -rf $DIR_NAME
+echo "Success" >/result.txt
 
 echo "Test script executed successfully!"
